@@ -1,4 +1,4 @@
-# Project Title
+# Problem Solving in Python
 
 This project is for python scripting and problem solving, related to coding and data structures.
 Other than that different miscellaneous scripts are being added in this project.
